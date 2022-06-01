@@ -21,7 +21,7 @@
 - SW : IDEs, Altium Designer, Autodesk Inventor, Ansys HFSS
 - HW : Oscilloscope, Function Generator, Spectrum Analyzer, Vector Network Analyzer
 
-### 이력
+### 경험
 - Stm32, nRF52840 MCU Digial 회로설계 및 Artwork
 - Power Conversion System 최적 회로설계 및 Artwork (DC-DC Sync. buck converter, boost converter, AC-DC and several other topologies)
 - High Power Control System 개발(N-MOS High Side Load Switch) 
