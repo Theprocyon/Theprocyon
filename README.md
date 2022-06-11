@@ -7,7 +7,7 @@
 - 스타트업에서 정보처리분야 산업기능요원으로 재직중
 
 ### HW
-- Power Electronics (Power conversion, Battery, BLDC Motor Control)
+- Power Electronics (Power conversion, Battery, Motor Control)
 - RF (GPS, Wifi)
 - MCU + Pheriphral HW (STM32, AVR, nRF)
 - USB / Etherent HW
