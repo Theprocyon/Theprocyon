@@ -4,7 +4,7 @@ Hardware / Firmware Engineer
 
 ### information
 - Inha University, Undergraduate, Major in Information & Communication Engineering
-- 스타트업에서 SW / HW 개발자로 재직중
+- Working as a SW / HW Engineer
 
 ### HW
 - Power Electronics (Power conversion, Battery Management, Motor driver)
