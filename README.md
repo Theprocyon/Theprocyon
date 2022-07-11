@@ -7,10 +7,11 @@ Hardware / Firmware Engineer
 - Working as a HW & FW Engineer
 
 ### HW
-- Power Electronics (Power conversion, Battery Management, Motor driver)
+- Power Electronics (Power conversion, Battery Management, Motor Controller)
 - RF (GPS, IEEE 802.11)
 - USB / Etherent / IoT
 - EMC
+- MCU
 - PCB Artwork
 
 ### FW
