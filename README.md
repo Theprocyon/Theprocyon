@@ -1,17 +1,17 @@
 # Theprocyon
 
-하드웨어, 펌웨어 엔지니어
+Hardware / Firmware Engineer
 
 ### information
-- 인하대학교 정보통신공학과 학부생(휴학)
+- Inha University, Undergraduate, Major in Information & Communication Engineering
 - 스타트업에서 SW / HW 개발자로 재직중
 
 ### HW
-- Power Electronics (Power conversion, Battery, Motor Control)
-- RF (GPS, Wifi)
-- MCU + Pheriphral HW (STM32, AVR, nRF)
-- USB / Etherent HW
-- EMC (EMI Debugging)
+- Power Electronics (Power conversion, Battery Management, Motor driver)
+- RF (GPS, IEEE 802.11)
+- MCU (STM32, AVR, nRF)
+- USB / Etherent / IoT
+- EMC
 - PCB Artwork
 
 ### FW
