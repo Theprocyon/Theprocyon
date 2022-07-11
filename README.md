@@ -4,7 +4,7 @@ Hardware / Firmware Engineer
 
 ### information
 - Inha University, Undergraduate, Major in Information & Communication Engineering
-- Working as a SW / HW Engineer
+- Working as a HW & FW Engineer
 
 ### HW
 - Power Electronics (Power conversion, Battery Management, Motor driver)
