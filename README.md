@@ -9,15 +9,13 @@ Hardware / Firmware Engineer
 ### HW
 - Power Electronics (Power conversion, Battery Management, Motor driver)
 - RF (GPS, IEEE 802.11)
-- MCU (STM32, AVR, nRF)
 - USB / Etherent / IoT
 - EMC
 - PCB Artwork
 
 ### FW
 - C / C++
-- STM32
-- nRF52 Series
+- STM32, nRF52 Series, AVR
 
 ### Tools
 - SW : IDEs, Altium Designer, Autodesk Inventor, Ansys HFSS
