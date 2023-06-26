@@ -14,10 +14,11 @@ Hardware / Firmware Engineer
 - MCU
 - PCB Artwork
 
-### FW
-- C / C++
-- STM32, nRF52 Series, AVR
+### SW
+- C / C++ / Java / C#
+- Embedded (STM32, nRF52 Series)
+- Application (Java Android, C# WPF)
 
 ### Tools
 - SW : IDEs, Altium Designer, Autodesk Inventor, Ansys HFSS
-- HW : Oscilloscope, Function Generator, Spectrum Analyzer, Vector Network Analyzer
+- HW : Oscilloscope, Spectrum Analyzer, Vector Network Analyzer
