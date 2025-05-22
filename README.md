@@ -6,7 +6,7 @@ Hardware / Software Engineer
 - Inha University, Undergraduate
 - Majoring in Information & Communication Engineering
 - Undergraduate researcher at Electric Power Conversion Lab.
-- Working as a HW & FW Engineer
+- Working as a Developer
   
 ### Keywords
 #### HW
