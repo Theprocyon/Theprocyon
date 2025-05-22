@@ -7,18 +7,20 @@ Hardware / Software Engineer
 - Majoring in Information & Communication Engineering
 - Undergraduate researcher at Electric Power Conversion Lab.
 - Working as a HW & FW Engineer
-
-### HW
-- Power Electronics (Converter, Inverter, etc...)
+  
+### Keywords
+#### HW
+- Power Electronics (Converter, Inverter, Control, etc...)
 - Digital (AP, USB 3.0, USB PD, MCU, etc...)
 - RF (IEEE 802.11, 4G, BT, BLE)
+- FPGA (AMD Zynq, verilog, HLS)
 - EMC
 
-### SW
+#### SW
 - FW (STM32, nRF, Arduino)
 - Application (Java Android, C# .NET)
-- Embedded (C / C++)
+- Embedded Linux 
 
-### Tools
-- SW : Altium Designer, KiCAD, Autodesk Inventor, Ansys HFSS
+#### Tools
+- SW : Altium Designer, KiCAD, Autodesk Inventor, Vivado & Vitis
 - HW : Oscilloscope, SA, VNA, etc..
