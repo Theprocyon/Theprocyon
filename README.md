@@ -3,14 +3,15 @@
 **Hardware / Software Engineer**  
 Undergraduate | Information & Communication Engineering  
 Electric Power Conversion Lab, Inha University
+[EPCL Lab](https://epcl.inha.ac.kr)
 
 ---
 
 ## 🧭 About Me
 
-I am an engineer focusing on embedded systems and power electronics.  
-For the past 3 years, I have been working as a hardware engineer, mainly involved in designing and developing PCBs for power electronics applications.  
-Currently, I am researching control systems for power converters, with a particular interest in **traction inverters** for electric drives.
+I am a student focusing on embedded systems and power electronics.
+From 2021 to 2023, I worked as a hardware & firmware engineer, mainly developing military drones.
+Currently, I am researching control systems for power converters, with particular interest in high-performance motor drives, power conversion, and FPGA-based design.
 
 ---
 
@@ -18,10 +19,10 @@ Currently, I am researching control systems for power converters, with a particu
 
 ### Hardware
 - Digital: AP, USB 3.0, USB PD, MCU (STM32, nRF)
-- FPGA: AMD Zynq MPSoC, Verilog, HLS
+- FPGA: AMD Zynq, Verilog, Vitis HLS
 - RF: IEEE 802.11, 4G, BLE
 - EMC
-- Tools: Altium Designer, KiCAD, Autodesk Inventor
+- PCB Artwork : Altium Designer, KiCAD
 
 ### Software
 - Firmware: ARM Based, TI DSP
@@ -32,10 +33,9 @@ Currently, I am researching control systems for power converters, with a particu
 
 ## 📘 Current Focus
 
-- Zynq-based Field Oriented Control (FOC) implementation using HLS
-- Learning advanced control theory for power converter systems
-- Embedded Linux
----
+- High performance motor drive & power conversion
+- Implementing control logic on FPGA using Vitis HLS
+- Control theory
 
 ## 📫 Contact
 
