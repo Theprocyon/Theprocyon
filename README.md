@@ -2,8 +2,7 @@
 
 **Hardware / Software Engineer**  
 Undergraduate | Information & Communication Engineering  
-Electric Power Conversion Lab, Inha University
-[EPCL Lab](https://epcl.inha.ac.kr)
+Electric Power Conversion Lab ([EPCL](https://epcl.inha.ac.kr)), Inha University
 
 ---
 
