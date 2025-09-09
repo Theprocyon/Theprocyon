@@ -1,7 +1,7 @@
 # Theprocyon
 
 **Hardware / Software Engineer**  
-Undergraduate | Information & Communication Engineering  
+Undergraduate | Electrical Engineering  
 Electric Power Conversion Lab ([EPCL](https://epcl.inha.ac.kr)), Inha University
 
 ---
