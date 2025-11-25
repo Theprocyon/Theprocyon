@@ -6,12 +6,16 @@
 - **2023–2025** — Electrical Engineering @ Inha University
 - **2026–Present** — Integrated Ph.D. Course @ [EPCL](https://epcl.inha.ac.kr)
 
+---
+
+## About me
+
 - I love computers.
 - I have a pure curiosity for fundamental principles.
 
 ---
 
-## 🔧 Skills
+## Skills
 
 **Embedded & Hardware**
 - **MCU / DSP** : STM32,nRF,PSOC,TMS320
@@ -28,12 +32,12 @@
 
 ---
 
-## 📘 Current Focus
+## Current Focus
 
 - High-performance motor drive & power conversion
 - Implementing control logic on FPGA using Vitis HLS
 - Control theory
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out via [Email](mailto:theprocyon@outlook.kr)
