@@ -39,5 +39,5 @@
 - Control theory
 
 ## Contact
-
-Feel free to reach out via [Email](mailto:theprocyon@outlook.kr)
+I primarily use a self-hosted [Git server](https://git.thep.kr/).
+If you are interested in my works or activities, please feel free to contact me via [Email](mailto:theprocyon@outlook.kr).
