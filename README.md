@@ -23,7 +23,7 @@
 - **SoC** : Custom Linux Build, Kernel Module Development (AMD Zynq)
 
 **FPGA & Digital Logic**
-- **HDL** : Verilog
+- **HDL** : Verilog, System Verilog
 - **HLS** : Vitis HLS
 
 **Application**
