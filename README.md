@@ -3,7 +3,7 @@
 ## Profile
 
 - **2021–2023** — Hardware Engineer @ Vorasky Inc.
-- **2023–2025** — Electrical Engineering @ Inha University
+- **2018–2025** — Electrical Engineering @ Inha University
 - **2026–Present** — Integrated Ph.D. Course @ [EPCL](https://epcl.inha.ac.kr)
 
 ---
